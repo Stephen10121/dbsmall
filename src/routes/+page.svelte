@@ -1,22 +1,12 @@
-<main>
+<section>
     Currently under construction
-    <a href="https://g.co/kgs/z7nyXas" target="_blank">Check Out My Google Profile</a>
-</main>
+    <a href="https://g.co/kgs/z7nyXas" target="_blank" class="fancy">Check Out Our Google Profile</a>
+</section>
 
 <style>
-    :global(body) {
-        width: 100vw;
-        height: 100vh;
-        height: 100dvh;
-        background-image: url(/excavator.png);
-        background-size: cover;
-        background-position: 50% 50%;
-    }
-
-    main {
+    section {
         width: 100%;
         height: 100%;
-        background-color: #00000077;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -28,6 +18,10 @@
     }
 
     a {
+        color: #ffffff;
+    }
+
+    .fancy {
         background-color: #ff7b00;
         font-size: 0.9rem;
         padding: 15px;

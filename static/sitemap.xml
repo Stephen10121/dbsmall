@@ -9,7 +9,13 @@
 
 <url>
   <loc>https://dbsmallprojects.com/</loc>
-  <lastmod>2024-05-06T21:46:30+00:00</lastmod>
+  <lastmod>2024-05-08T04:55:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dbsmallprojects.com/contact</loc>
+  <lastmod>2024-05-08T04:55:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
